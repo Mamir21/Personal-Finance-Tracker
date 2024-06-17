@@ -6,7 +6,7 @@ This Python script helps you track your personal finances, including income and 
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/personal-finance-tracker.git
+    git clone https://github.com/Mamir21/personal-finance-tracker.git
     ```
 
 2. **Navigate to the project directory**:
