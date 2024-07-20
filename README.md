@@ -42,12 +42,6 @@ This Python script helps you track your personal finances, including income and 
 - **Add Transaction**: Add a transaction with date, category, amount, and type (income or expense).
 - **Generate Report**: Generate a financial report for total income, total expenses, and balance.
 - **Category Report**: Generate a report for a specific category.
-  
-## Screenshot
-
-Here is a screenshot of the Finance page:
-
-.
 
 ## License
 
