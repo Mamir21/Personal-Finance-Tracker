@@ -1,4 +1,4 @@
-from db.py import get_db_connection
+from db import get_db_connection
 
 def add_transaction(date, category, amount, type):
     with get_db_connection() as conn:
