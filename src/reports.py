@@ -1,4 +1,3 @@
-# reports.py
 from models import get_transactions, get_transactions_by_type, get_transactions_by_category
 
 def generate_report():

@@ -1,4 +1,3 @@
-# finance_tracker.py
 import argparse
 from models import add_transaction, get_transactions
 from reports import generate_report, generate_category_report

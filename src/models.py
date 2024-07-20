@@ -1,4 +1,3 @@
-# models.py
 from db.py import get_db_connection
 
 def add_transaction(date, category, amount, type):
