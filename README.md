@@ -2,7 +2,7 @@
 
 This Python script helps you track your personal finances, including income and expenses. It allows you to categorize transactions and generate reports.
 
-## Usage
+## Installation
 
 1. **Clone the repository**:
     ```sh
